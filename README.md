@@ -3,20 +3,20 @@
 
 Installation Step :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
+$ git clone https://github.com/pasyago/virus-banner
 
 
-2) cd Termux-Banner
+$ cd Termux-Banner
 
 
-3) chmod +x requirement.sh
+$ chmod +x requirement.sh
 
 
-4) chmod +x t-ban.sh
+$ chmod +x t-ban.sh
 
 
-5) bash requirement.sh
+$ bash requirement.sh
 
 
-6) bash t-ban.sh
+$ bash t-ban.sh
 
