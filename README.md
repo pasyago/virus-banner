@@ -1,5 +1,5 @@
 # Termux Banner
-#Script by Sutariya Parixit
+#Script by ARIYAN KHAN OYON
 
 Installation Step :
 
